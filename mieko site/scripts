@@ -1,0 +1,74 @@
+<script type="text/javascript">"IntersectionObserver"in window&&"Intl"in window&&"Locale"in window.Intl||document.write(`\x3Cscript src="https://img1.wsimg.com/poly/v3/polyfill.min.js?rum=0&unknown=polyfill&flags=gated&features=Intl.~locale.de-CH">\x3C/script>`)</script>
+<script src="//img1.wsimg.com/blobby/go/e42884a4-b2a5-4d04-bdf9-7f0e92b967ca/gpub/12c81c48bd9f553c/script.js" crossorigin></script>
+<script src="//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.30.8.js" crossorigin></script>
+<script src="//img1.wsimg.com/blobby/go/e42884a4-b2a5-4d04-bdf9-7f0e92b967ca/gpub/4ace689824325126/script.js" crossorigin></script>
+<script defer src="//img1.wsimg.com/traffic-assets/js/tccl.min.js" crossorigin></script></body></html>
+
+//footer
+<div id="a704fadc-a6ed-4f91-a8e9-5b68bbbdb955" class="widget widget-footer widget-footer-footer-1">
+    <div data-ux="Widget" role="contentinfo" id="a704fadc-a6ed-4f91-a8e9-5b68bbbdb955"
+        class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
+        <div>
+            <section data-ux="Section"
+                class="x-el x-el-section c1-1 c1-2 c1-3 c1-3w c1-3x c1-b c1-c c1-q c1-r c1-d c1-e c1-f c1-g">
+                <div data-ux="Divider"
+                    class="x-el x-el-div c1-1 c1-2 c1-3 c1-1c c1-38 c1-10 c1-b c1-c c1-d c1-e c1-f c1-g">
+                    <div data-ux="Container"
+                        class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-14 c1-d c1-15 c1-e c1-16 c1-f c1-17 c1-g">
+                        <hr aria-hidden="true" role="separator" data-ux="DividerHR"
+                            class="x-el x-el-hr c1-1 c1-2 c1-61 c1-2g c1-2c c1-25 c1-26 c1-4 c1-b c1-c c1-d c1-e c1-f c1-g" />
+                    </div>
+                </div>
+                <div data-ux="Container"
+                    class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-b c1-c c1-14 c1-d c1-15 c1-e c1-16 c1-f c1-17 c1-g">
+                    <div data-ux="Layout"
+                        class="x-el x-el-div c1-1 c1-2 c1-1g c1-b c1-c c1-d c1-e c1-f c1-g">
+                        <div data-ux="FooterDetails" data-aid="FOOTER_COPYRIGHT_RENDERED"
+                            data-typography="DetailsGamma"
+                            class="x-el c1-62 c1-4c c1-1r c1-1s c1-63 c1-25 c1-t c1-b c1-64 c1-65 c1-2k c1-66 c1-67 c1-68 c1-69 x-rt">
+                            <p style="margin:0"><span>Copyright © 2023 Sigvik in Switzerland – Alle
+                                    Rechte vorbehalten.</span></p>
+                        </div>
+                        <div data-ux="Container"
+                            class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-x c1-y c1-z c1-1g c1-6g c1-b c1-c c1-14 c1-d c1-15 c1-e c1-16 c1-f c1-17 c1-g">
+                            <ul data-ux="NavFooter"
+                                class="x-el x-el-ul c1-1 c1-2 c1-6h c1-3b c1-3c c1-3d c1-3e c1-25 c1-3l c1-26 c1-3m c1-3f c1-b c1-c c1-1l c1-6i c1-d c1-e c1-f c1-g">
+                                <li style="display:inline-block"><a rel="" role="link"
+                                        aria-haspopup="false" data-ux="NavFooterLink"
+                                        data-page="2bb5f92b-11fa-4729-b986-f43fd277ab2d" target=""
+                                        data-aid="FOOTER_PAGE_LINK_0_RENDERED"
+                                        data-edit-interactive="true" href="/datenschutzerkl%C3%A4rung"
+                                        data-typography="LinkAlpha"
+                                        class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1i c1-1u c1-27 c1-28 c1-6j c1-6k c1-b c1-4n c1-c c1-20 c1-6l c1-6m c1-6n c1-6o c1-d c1-e c1-f c1-g"
+                                        data-tccl="ux2.FOOTER.footer1.Nav.Footer.Link.Default.88668.click,click">Datenschutzerklärung</a>
+                                </li>
+                                <li style="display:inline-block"><a rel="" role="link"
+                                        aria-haspopup="false" data-ux="NavFooterLink"
+                                        data-page="912fced6-a3e1-4600-b798-dd173b5e948f" target=""
+                                        data-aid="FOOTER_PAGE_LINK_1_RENDERED"
+                                        data-edit-interactive="true" href="/impressum-%2F-kontakt"
+                                        data-typography="LinkAlpha"
+                                        class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1i c1-1u c1-27 c1-28 c1-6j c1-6k c1-b c1-4n c1-c c1-20 c1-6l c1-6m c1-6n c1-6o c1-d c1-e c1-f c1-g"
+                                        data-tccl="ux2.FOOTER.footer1.Nav.Footer.Link.Default.88669.click,click">Impressum
+                                        / Kontakt</a></li>
+                            </ul>
+                        </div>
+                        <hr aria-hidden="true" role="separator" data-ux="HR"
+                            class="x-el x-el-hr c1-1 c1-2 c1-6p c1-2g c1-2c c1-25 c1-t c1-6q c1-v c1-w c1-h c1-b c1-c c1-d c1-e c1-f c1-g" />
+                        <p data-ux="FooterDetails" data-aid="FOOTER_POWERED_BY_RENDERED"
+                            data-typography="DetailsGamma"
+                            class="x-el x-el-p c1-62 c1-4c c1-1r c1-1s c1-63 c1-25 c1-26 c1-b c1-64 c1-65 c1-2k c1-66 c1-67 c1-68 c1-69">
+                            <span>Unterstützt von <a rel="nofollow noopener" role="link"
+                                    aria-haspopup="true" data-ux="Link" target="_blank"
+                                    data-aid="FOOTER_POWERED_BY_RENDERED_LINK"
+                                    href="https://www.godaddy.com/websites/website-builder?isc=pwugc&amp;utm_source=wsb&amp;utm_medium=applications&amp;utm_campaign=de-ch_corp_applications_base"
+                                    data-typography="LinkAlpha"
+                                    class="x-el x-el-a c1-1o c1-1p c1-1q c1-1r c1-1s c1-1t c1-1u c1-b c1-4n c1-65 c1-20 c1-6l c1-6m c1-66 c1-67 c1-68 c1-69"
+                                    data-tccl="ux2.FOOTER.footer1.Layout.Default.Link.Default.88670.click,click">GoDaddy</a></span>
+                        </p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
